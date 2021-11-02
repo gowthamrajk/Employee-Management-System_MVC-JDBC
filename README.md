@@ -1,5 +1,7 @@
 # Employee-Management-System_MVC-JDBC ❤️
 
+![](https://img.shields.io/github/languages/count/gowthamrajk/Employee-Management-System_MVC-JDBC)   ![](https://img.shields.io/github/languages/top/gowthamrajk/Employee-Management-System_MVC-JDBC)
+
 ### For more such developments, visit my [Portfolio](https://gowthamrajk.github.io)
 
 - This modules is an example of a Console based Employee Management System using MVC Design Pattern & JDBC + MySQL. It gives a practical demo explanation as how to connect our java application with the database using JDBC and proper MVC layered architecture as model, repository, service layers.
